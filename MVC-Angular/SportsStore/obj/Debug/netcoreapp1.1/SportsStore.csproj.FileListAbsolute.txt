@@ -1,0 +1,10 @@
+E:\Projects\MVC-Angular\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.deps.json
+E:\Projects\MVC-Angular\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.runtimeconfig.json
+E:\Projects\MVC-Angular\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.runtimeconfig.dev.json
+E:\Projects\MVC-Angular\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.dll
+E:\Projects\MVC-Angular\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.pdb
+E:\Projects\MVC-Angular\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.csprojResolveAssemblyReference.cache
+E:\Projects\MVC-Angular\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.csproj.CoreCompileInputs.cache
+E:\Projects\MVC-Angular\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.AssemblyInfo.cs
+E:\Projects\MVC-Angular\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.dll
+E:\Projects\MVC-Angular\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.pdb
