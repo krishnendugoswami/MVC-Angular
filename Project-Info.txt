@@ -1,0 +1,5 @@
+This project is about using Angular and ASP.NET Core MVC together to build rich applications. Individually,
+each of these frameworks is powerful and feature-rich, but using them together combines the dynamic
+flexibility of Angular with the solid infrastructure of ASP.NET Core MVC
+
+Krishnendu Goswami
